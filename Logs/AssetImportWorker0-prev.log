@@ -1,112 +1,221 @@
 Using pre-set license
-Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 16315 MB
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 16322 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+C:\Unity Editors\2021.1.1f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Luana/Desktop/wii/Prom2-Men-principal
+D:/CLASES/2021-1/_Proyecto Taller/Prom2-Menú principal
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57641
-Successfully changed project path to: C:/Users/Luana/Desktop/wii/Prom2-Men-principal
-C:/Users/Luana/Desktop/wii/Prom2-Men-principal
+60618
+Successfully changed project path to: D:/CLASES/2021-1/_Proyecto Taller/Prom2-Menú principal
+D:/CLASES/2021-1/_Proyecto Taller/Prom2-Menú principal
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 68.48 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 81.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.1.7f1 (d91830b65d9b)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Luana/Desktop/wii/Prom2-Men-principal/Assets
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Unity Editors/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/CLASES/2021-1/_Proyecto Taller/Prom2-Menú principal/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
     Vendor:   NVIDIA
-    VRAM:     6052 MB
-    Driver:   27.21.14.6647
+    VRAM:     2007 MB
+    Driver:   27.21.14.6589
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Mono path[0] = 'C:/Unity Editors/2021.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Unity Editors/2021.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Unity Editors/2021.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001646 seconds.
+Register platform support module: C:/Unity Editors/2021.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Unity Editors/2021.1.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Unity Editors/2021.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003251 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.53 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 79.75 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.035 seconds
+- Completed reload, in  2.074 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002082 seconds.
+Registered in 0.002819 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.822 seconds
+- Completed reload, in  1.107 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.1 MB.
-System memory in use after: 98.3 MB.
+System memory in use before: 102.7 MB.
+System memory in use after: 102.8 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3124.
-Total: 1.930200 ms (FindLiveObjects: 0.289900 ms CreateObjectMapping: 0.072700 ms MarkObjects: 1.514700 ms  DeleteObjects: 0.051700 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3123.
+Total: 2.629200 ms (FindLiveObjects: 0.484500 ms CreateObjectMapping: 0.252900 ms MarkObjects: 1.781700 ms  DeleteObjects: 0.109100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts
-  artifactKey: Guid(1b35096e7c370094d88ab10aa8689082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(1b35096e7c370094d88ab10aa8689082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2773a20fc54e9fddfaf3bf0081b0c4d8') in 0.013725 seconds 
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(cbd434761af5ae74ebff35e39988597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(cbd434761af5ae74ebff35e39988597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8a3518868cd071e2afb5e16b283fae') in 0.015094 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.270334 seconds.
-  path: Assets/Scripts/ControladorBotones.cs
-  artifactKey: Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ControladorBotones.cs using Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1298689dfc3d669705f2a857f309e6') in 0.028589 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.563791 seconds.
-  path: Assets/Scripts/ControladorReturn.cs
-  artifactKey: Guid(5614cc1bff0628345aa7144286480a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ControladorReturn.cs using Guid(5614cc1bff0628345aa7144286480a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da52dd40749ca8a5948a9879dd71e137') in 0.006532 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.571595 seconds.
-  path: Assets/Scripts/ControladorMenu.cs
-  artifactKey: Guid(7363f18c1a9b9a241a8b9a6e7746a14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ControladorMenu.cs using Guid(7363f18c1a9b9a241a8b9a6e7746a14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '640414eadbd69ddc56fe7814a6bfd4ac') in 0.007266 seconds 
+  Time since last request: 25.458525 seconds.
+  path: Assets/Scripts/ControladorBack.cs
+  artifactKey: Guid(57d263718139e0747a342b3dbb26d035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorBack.cs using Guid(57d263718139e0747a342b3dbb26d035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b6fd94e54fd9de60cabe24c08f3378') in 0.039693 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002187 seconds.
+Registered in 0.003313 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.797 seconds
+- Completed reload, in  1.049 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3126.
+Total: 2.973500 ms (FindLiveObjects: 0.431100 ms CreateObjectMapping: 0.205500 ms MarkObjects: 2.259200 ms  DeleteObjects: 0.074800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 659.513174 seconds.
+  path: Assets/Scripts/ControladorMenu.cs
+  artifactKey: Guid(7363f18c1a9b9a241a8b9a6e7746a14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorMenu.cs using Guid(7363f18c1a9b9a241a8b9a6e7746a14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd03205c9a647ae1ce870cf64e08cc2') in 0.012067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.407490 seconds.
+  path: Assets/Scenes/Level Select.unity
+  artifactKey: Guid(232f5e15e63b8a84cb327227b179048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level Select.unity using Guid(232f5e15e63b8a84cb327227b179048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fdc9023131b55900f719681f8b3fa9') in 0.015113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.685629 seconds.
+  path: Assets/Scripts/ControladorBotones.cs
+  artifactKey: Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorBotones.cs using Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0700b37cc49c5dfe04d21ba0b1534410') in 0.008719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.066290 seconds.
+  path: Assets/Scripts/ControladorReturn.cs
+  artifactKey: Guid(5614cc1bff0628345aa7144286480a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorReturn.cs using Guid(5614cc1bff0628345aa7144286480a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e1226921cab6029f872c7b2e74bcf2') in 0.007629 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003294 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 98.2 MB.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.991 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.9 MB.
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3127.
-Total: 1.969800 ms (FindLiveObjects: 0.232400 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.652400 ms  DeleteObjects: 0.023100 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3129.
+Total: 2.477700 ms (FindLiveObjects: 0.456400 ms CreateObjectMapping: 0.250400 ms MarkObjects: 1.718900 ms  DeleteObjects: 0.050000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 384.503278 seconds.
+  path: Assets/Scripts/ControladorBotones.cs
+  artifactKey: Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorBotones.cs using Guid(18e759333503e864c84ac0deac97e564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ffa3300ac0cb61b1e29f2fdf92bc77') in 0.006547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 305.770021 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(097a92d89788b424184c56f6218ad0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(097a92d89788b424184c56f6218ad0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d66ccb04a64b928fdbd058a16c7bba3') in 0.015219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.665774 seconds.
+  path: Assets/Scenes/Scene2.unity
+  artifactKey: Guid(668708f27eda16948a3bc16db9cf0a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene2.unity using Guid(668708f27eda16948a3bc16db9cf0a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8eaf5e6585b99fd7ed9c387fa1b9237') in 0.010330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.520026 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(3890a137be1404f439e060456394e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene3.unity using Guid(3890a137be1404f439e060456394e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b58714fe7239e349c824f5c6d394c5') in 0.007850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.929875 seconds.
+  path: Assets/Scenes/Options.unity
+  artifactKey: Guid(73bd8c71e9b8c7a479a0ed2165211c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Options.unity using Guid(73bd8c71e9b8c7a479a0ed2165211c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2fc90581655759c6bf1cb28c8ca9950') in 0.007203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.315001 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(cbd434761af5ae74ebff35e39988597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(cbd434761af5ae74ebff35e39988597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6158a9dca6ffc5c7e79e6e4a2ecf8b1') in 0.003694 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003116 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\CLASES\2021-1\_Proyecto Taller\Prom2-Menú principal\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 103.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 2.730600 ms (FindLiveObjects: 0.636100 ms CreateObjectMapping: 0.234500 ms MarkObjects: 1.774700 ms  DeleteObjects: 0.084400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
