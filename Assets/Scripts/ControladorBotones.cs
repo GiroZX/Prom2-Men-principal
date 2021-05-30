@@ -18,4 +18,35 @@ public class ControladorBotones : MonoBehaviour
     {
         SceneManager.LoadScene("Scene3");
     }
+    public void Return()
+    {
+
+        SceneManager.LoadScene("MainMenu");
+    }
+    public void Back()
+    {
+
+        SceneManager.LoadScene("Level Select");
+    }
+    public void Play()
+    {
+        SceneManager.LoadScene("Scene1");
+    }
+
+    public void EscogerNivel(string levelName)
+    {
+        SceneManager.LoadScene("Level Select");
+    }
+    public void Opciones()
+    {
+        SceneManager.LoadScene("Options");
+    }
+
+    public void Exit()
+    {
+        Debug.Log("QUIT!");
+
+        Application.Quit(); ;
+
+    }
 }
